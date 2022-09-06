@@ -8,7 +8,7 @@ Hey there! My name is Kerem, I am a high school student who is interested in cod
 <a href="http://theartist.rf.gd" target="_blank">Çeşitli Hizmetler</a>
 
 <b>• My websites in English language:</b><br>
-<a href="https://keremindex.glitch.me" target="_blank">Learn Your Height-Weight Index</a><br>
+<a href="https://keremindex.glitch.me" target="_blank">Learn Your Body Mass Index</a><br>
 <a href="https://keremtransformation.glitch.me" target="_blank">Unit Transformation</a>
 
 <b>• To collaborate/communicate with me:</b><br>
